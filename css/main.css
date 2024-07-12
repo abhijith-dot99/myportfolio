@@ -363,7 +363,7 @@ section .row span {
     justify-content: center;
 }
 #about .about-wrapper__image img {
-    max-width: 350px;
+    max-width: 330px;
     width: 100%;
 }
 @media (max-width: 75em) {
