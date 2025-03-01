@@ -768,14 +768,14 @@ section .row span {
     border-radius: 2px;
 }
 #projects .project-wrapper__image .thumbnail .img-fluid1 {
-    width: 50%;
+    width: 30%;
     height: auto;
     vertical-align: middle;
     border-radius: 2px;
 }
 
 #projects .project-wrapper__image .thumbnail .img-fluid2 {
-    width: 60%;
+    width: 30%;
     height: auto;
     vertical-align: middle;
     border-radius: 2px;
